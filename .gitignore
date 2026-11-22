@@ -1,0 +1,10 @@
+# CMake / Visual Studio 建置輸出
+build/
+out/
+.vs/
+CMakeUserPresets.json
+*.user
+
+# IDE
+.vscode/
+.idea/
